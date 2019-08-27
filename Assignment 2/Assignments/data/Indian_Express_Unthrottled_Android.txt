@@ -1,0 +1,2427 @@
+Page Onload Time : 101.207122 s
+Page Load time (if all connections are opened simultaneously) : 14.184573 s
+Page Load time (if max Goodput is achieved) : 110.984057 s
+Total No. of Objects Downloaded : 423
+Total Size of Content Downloaded : 2610.968750 KB
+
+Average Goodput Of Network : 143.563890 KBps
+Maximum Goodput Of Network : 3981.437972 KBps
+
+Domain Analysis:
+
+	s0.wp.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 60.034180 KB
+		No. of objects = 3
+		No. of TCP connections = 3
+		TCP Connections:
+				 386971:  Size of Content Downloaded = 4.681641 KB   No. of Objects  = 1
+				 386913:  Size of Content Downloaded = 4.756836 KB   No. of Objects  = 1
+				 386702:  Size of Content Downloaded = 50.595703 KB   No. of Objects  = 1
+
+	files.b4ban.in
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 4.399414 KB
+		No. of objects = 2
+		No. of TCP connections = 2
+		TCP Connections:
+				 388727:  Size of Content Downloaded = 1.144531 KB   No. of Objects  = 1
+				 388174:  Size of Content Downloaded = 3.254883 KB   No. of Objects  = 1
+
+	imagecache.crowdynews.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 44.487305 KB
+		No. of objects = 2
+		No. of TCP connections = 1
+		TCP Connections:
+				 387781:  Size of Content Downloaded = 44.487305 KB   No. of Objects  = 2
+
+	events.izooto.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.284180 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387039:  Size of Content Downloaded = 0.284180 KB   No. of Objects  = 1
+
+	static.crowdynews.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 1.119141 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387519:  Size of Content Downloaded = 1.119141 KB   No. of Objects  = 1
+
+	edge.quantserve.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 5.778320 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387504:  Size of Content Downloaded = 5.778320 KB   No. of Objects  = 1
+
+	securepubads.g.doubleclick.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 163.263672 KB
+		No. of objects = 14
+		No. of TCP connections = 1
+		TCP Connections:
+				 387806:  Size of Content Downloaded = 163.263672 KB   No. of Objects  = 14
+
+	aax.amazon-adsystem.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.445312 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389308:  Size of Content Downloaded = 0.445312 KB   No. of Objects  = 1
+
+	secure.statcounter.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 10.431641 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 388890:  Size of Content Downloaded = 10.431641 KB   No. of Objects  = 1
+
+	delivery.b.switchadhub.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 36.953125 KB
+		No. of objects = 4
+		No. of TCP connections = 3
+		TCP Connections:
+				 389365:  Size of Content Downloaded = 35.157227 KB   No. of Objects  = 2
+				 389392:  Size of Content Downloaded = 1.342773 KB   No. of Objects  = 1
+				 389450:  Size of Content Downloaded = 0.453125 KB   No. of Objects  = 1
+
+	dis.criteo.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.714844 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389624:  Size of Content Downloaded = 0.714844 KB   No. of Objects  = 1
+
+	showads.pubmatic.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 6.455078 KB
+		No. of objects = 3
+		No. of TCP connections = 3
+		TCP Connections:
+				 389269:  Size of Content Downloaded = 2.328125 KB   No. of Objects  = 1
+				 388259:  Size of Content Downloaded = 2.096680 KB   No. of Objects  = 1
+				 389682:  Size of Content Downloaded = 2.030273 KB   No. of Objects  = 1
+
+	atpixelus.alephd.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.291992 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389105:  Size of Content Downloaded = 0.291992 KB   No. of Objects  = 1
+
+	cs.nex8.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.563477 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389284:  Size of Content Downloaded = 0.563477 KB   No. of Objects  = 1
+
+	engine.adzerk.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 3.374023 KB
+		No. of objects = 2
+		No. of TCP connections = 2
+		TCP Connections:
+				 389401:  Size of Content Downloaded = 0.785156 KB   No. of Objects  = 1
+				 387834:  Size of Content Downloaded = 2.588867 KB   No. of Objects  = 1
+
+	ads.pubmatic.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 148.916992 KB
+		No. of objects = 12
+		No. of TCP connections = 10
+		TCP Connections:
+				 388252:  Size of Content Downloaded = 12.130859 KB   No. of Objects  = 1
+				 388248:  Size of Content Downloaded = 12.130859 KB   No. of Objects  = 1
+				 387145:  Size of Content Downloaded = 15.477539 KB   No. of Objects  = 1
+				 389592:  Size of Content Downloaded = 12.130859 KB   No. of Objects  = 1
+				 389662:  Size of Content Downloaded = 12.130859 KB   No. of Objects  = 1
+				 389101:  Size of Content Downloaded = 12.130859 KB   No. of Objects  = 1
+				 389261:  Size of Content Downloaded = 12.130859 KB   No. of Objects  = 1
+				 389265:  Size of Content Downloaded = 12.130859 KB   No. of Objects  = 1
+				 389658:  Size of Content Downloaded = 12.130859 KB   No. of Objects  = 1
+				 387999:  Size of Content Downloaded = 36.392578 KB   No. of Objects  = 3
+
+	stats.wp.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 4.284180 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387137:  Size of Content Downloaded = 4.284180 KB   No. of Objects  = 1
+
+	platform.twitter.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 34.762695 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387288:  Size of Content Downloaded = 34.762695 KB   No. of Objects  = 1
+
+	pixel.advertising.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.859375 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389159:  Size of Content Downloaded = 0.859375 KB   No. of Objects  = 1
+
+	ssum-sec.casalemedia.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.812500 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389598:  Size of Content Downloaded = 0.812500 KB   No. of Objects  = 1
+
+	tpc.googlesyndication.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 237.689453 KB
+		No. of objects = 31
+		No. of TCP connections = 6
+		TCP Connections:
+				 389968:  Size of Content Downloaded = 12.293945 KB   No. of Objects  = 3
+				 388921:  Size of Content Downloaded = 2.292969 KB   No. of Objects  = 1
+				 388303:  Size of Content Downloaded = 28.548828 KB   No. of Objects  = 6
+				 388910:  Size of Content Downloaded = 0.619141 KB   No. of Objects  = 1
+				 388136:  Size of Content Downloaded = 189.352539 KB   No. of Objects  = 18
+				 387989:  Size of Content Downloaded = 4.582031 KB   No. of Objects  = 2
+
+	s0.2mdn.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 140.163086 KB
+		No. of objects = 3
+		No. of TCP connections = 2
+		TCP Connections:
+				 388312:  Size of Content Downloaded = 30.991211 KB   No. of Objects  = 2
+				 390023:  Size of Content Downloaded = 109.171875 KB   No. of Objects  = 1
+
+	images.indianexpress.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 694.452148 KB
+		No. of objects = 89
+		No. of TCP connections = 7
+		TCP Connections:
+				 386953:  Size of Content Downloaded = 52.155273 KB   No. of Objects  = 7
+				 386943:  Size of Content Downloaded = 152.781250 KB   No. of Objects  = 17
+				 386949:  Size of Content Downloaded = 72.292969 KB   No. of Objects  = 9
+				 386935:  Size of Content Downloaded = 112.148438 KB   No. of Objects  = 15
+				 387440:  Size of Content Downloaded = 59.827148 KB   No. of Objects  = 9
+				 386921:  Size of Content Downloaded = 111.692383 KB   No. of Objects  = 17
+				 386939:  Size of Content Downloaded = 133.554688 KB   No. of Objects  = 15
+
+	static.chartbeat.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 19.716797 KB
+		No. of objects = 2
+		No. of TCP connections = 2
+		TCP Connections:
+				 386903:  Size of Content Downloaded = 6.478516 KB   No. of Objects  = 1
+				 389501:  Size of Content Downloaded = 13.238281 KB   No. of Objects  = 1
+
+	ums.adtechjp.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.424805 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389116:  Size of Content Downloaded = 0.424805 KB   No. of Objects  = 1
+
+	fonts.googleapis.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 1.475586 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 386855:  Size of Content Downloaded = 1.475586 KB   No. of Objects  = 1
+
+	sync.extend.tv
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.541016 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 390212:  Size of Content Downloaded = 0.541016 KB   No. of Objects  = 1
+
+	stats.g.doubleclick.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.293945 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387794:  Size of Content Downloaded = 0.293945 KB   No. of Objects  = 1
+
+	cas.criteo.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 4.630859 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389568:  Size of Content Downloaded = 4.630859 KB   No. of Objects  = 1
+
+	b.scorecardresearch.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 2.722656 KB
+		No. of objects = 2
+		No. of TCP connections = 2
+		TCP Connections:
+				 387459:  Size of Content Downloaded = 0.346680 KB   No. of Objects  = 1
+				 387177:  Size of Content Downloaded = 2.375977 KB   No. of Objects  = 1
+
+	ib.adnxs.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 34.849609 KB
+		No. of objects = 7
+		No. of TCP connections = 6
+		TCP Connections:
+				 387947:  Size of Content Downloaded = 4.604492 KB   No. of Objects  = 1
+				 387920:  Size of Content Downloaded = 5.083984 KB   No. of Objects  = 1
+				 387943:  Size of Content Downloaded = 4.662109 KB   No. of Objects  = 1
+				 389987:  Size of Content Downloaded = 3.532227 KB   No. of Objects  = 1
+				 389700:  Size of Content Downloaded = 12.399414 KB   No. of Objects  = 2
+				 387929:  Size of Content Downloaded = 4.567383 KB   No. of Objects  = 1
+
+	indianexpress.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 28.723633 KB
+		No. of objects = 12
+		No. of TCP connections = 12
+		TCP Connections:
+				 389420:  Size of Content Downloaded = 0.445312 KB   No. of Objects  = 1
+				 389645:  Size of Content Downloaded = 0.445312 KB   No. of Objects  = 1
+				 387406:  Size of Content Downloaded = 0.445312 KB   No. of Objects  = 1
+				 390180:  Size of Content Downloaded = 0.445312 KB   No. of Objects  = 1
+				 386571:  Size of Content Downloaded = 22.058594 KB   No. of Objects  = 1
+				 389746:  Size of Content Downloaded = 0.942383 KB   No. of Objects  = 1
+				 388336:  Size of Content Downloaded = 0.445312 KB   No. of Objects  = 1
+				 388792:  Size of Content Downloaded = 0.445312 KB   No. of Objects  = 1
+				 387112:  Size of Content Downloaded = 0.942383 KB   No. of Objects  = 1
+				 387202:  Size of Content Downloaded = 0.720703 KB   No. of Objects  = 1
+				 389509:  Size of Content Downloaded = 0.445312 KB   No. of Objects  = 1
+				 388954:  Size of Content Downloaded = 0.942383 KB   No. of Objects  = 1
+
+	acdn.adnxs.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 1.235352 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389897:  Size of Content Downloaded = 1.235352 KB   No. of Objects  = 1
+
+	s1.wp.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 42.529297 KB
+		No. of objects = 8
+		No. of TCP connections = 3
+		TCP Connections:
+				 386698:  Size of Content Downloaded = 19.501953 KB   No. of Objects  = 1
+				 386993:  Size of Content Downloaded = 9.000000 KB   No. of Objects  = 3
+				 386967:  Size of Content Downloaded = 14.027344 KB   No. of Objects  = 4
+
+	image6.pubmatic.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 1.347656 KB
+		No. of objects = 3
+		No. of TCP connections = 3
+		TCP Connections:
+				 388011:  Size of Content Downloaded = 0.449219 KB   No. of Objects  = 1
+				 389616:  Size of Content Downloaded = 0.449219 KB   No. of Objects  = 1
+				 389142:  Size of Content Downloaded = 0.449219 KB   No. of Objects  = 1
+
+	vrp.outbrain.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.373047 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387273:  Size of Content Downloaded = 0.373047 KB   No. of Objects  = 1
+
+	statistics.crowdynews.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 13.593750 KB
+		No. of objects = 30
+		No. of TCP connections = 13
+		TCP Connections:
+				 388750:  Size of Content Downloaded = 0.906250 KB   No. of Objects  = 2
+				 388963:  Size of Content Downloaded = 0.453125 KB   No. of Objects  = 1
+				 388345:  Size of Content Downloaded = 0.906250 KB   No. of Objects  = 2
+				 389151:  Size of Content Downloaded = 0.453125 KB   No. of Objects  = 1
+				 389484:  Size of Content Downloaded = 1.812500 KB   No. of Objects  = 4
+				 388702:  Size of Content Downloaded = 0.906250 KB   No. of Objects  = 2
+				 389919:  Size of Content Downloaded = 2.718750 KB   No. of Objects  = 6
+				 388044:  Size of Content Downloaded = 0.453125 KB   No. of Objects  = 1
+				 389321:  Size of Content Downloaded = 0.453125 KB   No. of Objects  = 1
+				 389691:  Size of Content Downloaded = 1.359375 KB   No. of Objects  = 3
+				 389381:  Size of Content Downloaded = 0.906250 KB   No. of Objects  = 2
+				 387351:  Size of Content Downloaded = 0.453125 KB   No. of Objects  = 1
+				 387735:  Size of Content Downloaded = 1.812500 KB   No. of Objects  = 4
+
+	exchange.adtrue.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 1.841797 KB
+		No. of objects = 2
+		No. of TCP connections = 2
+		TCP Connections:
+				 389530:  Size of Content Downloaded = 0.917969 KB   No. of Objects  = 1
+				 389737:  Size of Content Downloaded = 0.923828 KB   No. of Objects  = 1
+
+	ads.stickyadstv.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.574219 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 390050:  Size of Content Downloaded = 0.574219 KB   No. of Objects  = 1
+
+	t.pubmatic.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.049805 KB
+		No. of objects = 3
+		No. of TCP connections = 3
+		TCP Connections:
+				 388027:  Size of Content Downloaded = 0.016602 KB   No. of Objects  = 1
+				 388224:  Size of Content Downloaded = 0.016602 KB   No. of Objects  = 1
+				 388228:  Size of Content Downloaded = 0.016602 KB   No. of Objects  = 1
+
+	pixel.quantserve.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.779297 KB
+		No. of objects = 2
+		No. of TCP connections = 2
+		TCP Connections:
+				 387890:  Size of Content Downloaded = 0.389648 KB   No. of Objects  = 1
+				 387526:  Size of Content Downloaded = 0.389648 KB   No. of Objects  = 1
+
+	static.criteo.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 17.010742 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389540:  Size of Content Downloaded = 17.010742 KB   No. of Objects  = 1
+
+	aax-fe-sin.amazon-adsystem.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.653320 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389332:  Size of Content Downloaded = 0.653320 KB   No. of Objects  = 1
+
+	cdn.atlassbx.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 88.245117 KB
+		No. of objects = 4
+		No. of TCP connections = 1
+		TCP Connections:
+				 388499:  Size of Content Downloaded = 88.245117 KB   No. of Objects  = 4
+
+	s1.2mdn.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 40.688477 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 388640:  Size of Content Downloaded = 40.688477 KB   No. of Objects  = 1
+
+	pagead2.googlesyndication.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 373.274414 KB
+		No. of objects = 42
+		No. of TCP connections = 10
+		TCP Connections:
+				 386593:  Size of Content Downloaded = 162.035156 KB   No. of Objects  = 29
+				 388114:  Size of Content Downloaded = 28.634766 KB   No. of Objects  = 1
+				 388280:  Size of Content Downloaded = 29.779297 KB   No. of Objects  = 1
+				 388372:  Size of Content Downloaded = 30.426758 KB   No. of Objects  = 2
+				 388815:  Size of Content Downloaded = 70.966797 KB   No. of Objects  = 2
+				 388680:  Size of Content Downloaded = 20.507812 KB   No. of Objects  = 2
+				 388984:  Size of Content Downloaded = 0.559570 KB   No. of Objects  = 1
+				 388993:  Size of Content Downloaded = 29.194336 KB   No. of Objects  = 2
+				 389065:  Size of Content Downloaded = 0.559570 KB   No. of Objects  = 1
+				 389056:  Size of Content Downloaded = 0.610352 KB   No. of Objects  = 1
+
+	cdn.adtrue.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 3.909180 KB
+		No. of objects = 2
+		No. of TCP connections = 2
+		TCP Connections:
+				 389475:  Size of Content Downloaded = 3.034180 KB   No. of Objects  = 1
+				 389728:  Size of Content Downloaded = 0.875000 KB   No. of Objects  = 1
+
+	images.jansatta.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 14.801758 KB
+		No. of objects = 2
+		No. of TCP connections = 2
+		TCP Connections:
+				 387026:  Size of Content Downloaded = 9.211914 KB   No. of Objects  = 1
+				 387030:  Size of Content Downloaded = 5.589844 KB   No. of Objects  = 1
+
+	d5p.de17a.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.223633 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 390057:  Size of Content Downloaded = 0.223633 KB   No. of Objects  = 1
+
+	cm.g.doubleclick.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 1.000977 KB
+		No. of objects = 5
+		No. of TCP connections = 2
+		TCP Connections:
+				 390124:  Size of Content Downloaded = 0.481445 KB   No. of Objects  = 2
+				 388844:  Size of Content Downloaded = 0.519531 KB   No. of Objects  = 3
+
+	rules.quantcount.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.695312 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387820:  Size of Content Downloaded = 0.695312 KB   No. of Objects  = 1
+
+	cat.hk.as.criteo.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.449219 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389605:  Size of Content Downloaded = 0.449219 KB   No. of Objects  = 1
+
+	serve.b4ban.in
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 3.531250 KB
+		No. of objects = 4
+		No. of TCP connections = 3
+		TCP Connections:
+				 388693:  Size of Content Downloaded = 0.505859 KB   No. of Objects  = 1
+				 388408:  Size of Content Downloaded = 2.473633 KB   No. of Objects  = 2
+				 388686:  Size of Content Downloaded = 0.551758 KB   No. of Objects  = 1
+
+	www.googletagservices.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 9.193359 KB
+		No. of objects = 2
+		No. of TCP connections = 1
+		TCP Connections:
+				 387363:  Size of Content Downloaded = 9.193359 KB   No. of Objects  = 2
+
+	c.amazon-adsystem.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 4.459961 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389298:  Size of Content Downloaded = 4.459961 KB   No. of Objects  = 1
+
+	s2.wp.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 9.913086 KB
+		No. of objects = 2
+		No. of TCP connections = 2
+		TCP Connections:
+				 386872:  Size of Content Downloaded = 8.813477 KB   No. of Objects  = 1
+				 386896:  Size of Content Downloaded = 1.099609 KB   No. of Objects  = 1
+
+	bid.contextweb.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 2.804688 KB
+		No. of objects = 4
+		No. of TCP connections = 4
+		TCP Connections:
+				 388069:  Size of Content Downloaded = 0.701172 KB   No. of Objects  = 1
+				 388060:  Size of Content Downloaded = 0.701172 KB   No. of Objects  = 1
+				 388083:  Size of Content Downloaded = 0.701172 KB   No. of Objects  = 1
+				 388087:  Size of Content Downloaded = 0.701172 KB   No. of Objects  = 1
+
+	www.gstatic.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 5.558594 KB
+		No. of objects = 5
+		No. of TCP connections = 1
+		TCP Connections:
+				 388141:  Size of Content Downloaded = 5.558594 KB   No. of Objects  = 5
+
+	googleads4.g.doubleclick.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.814453 KB
+		No. of objects = 4
+		No. of TCP connections = 2
+		TCP Connections:
+				 390028:  Size of Content Downloaded = 0.365234 KB   No. of Objects  = 1
+				 388131:  Size of Content Downloaded = 0.449219 KB   No. of Objects  = 3
+
+	x.bidswitch.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.461914 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389109:  Size of Content Downloaded = 0.461914 KB   No. of Objects  = 1
+
+	adserver.adtechus.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 4.180664 KB
+		No. of objects = 4
+		No. of TCP connections = 4
+		TCP Connections:
+				 389008:  Size of Content Downloaded = 1.229492 KB   No. of Objects  = 1
+				 389441:  Size of Content Downloaded = 1.206055 KB   No. of Objects  = 1
+				 387975:  Size of Content Downloaded = 0.872070 KB   No. of Objects  = 1
+				 387969:  Size of Content Downloaded = 0.873047 KB   No. of Objects  = 1
+
+	fonts.gstatic.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 40.416016 KB
+		No. of objects = 4
+		No. of TCP connections = 1
+		TCP Connections:
+				 386864:  Size of Content Downloaded = 40.416016 KB   No. of Objects  = 4
+
+	gads.pubmatic.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 12.380859 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387906:  Size of Content Downloaded = 12.380859 KB   No. of Objects  = 1
+
+	sig.atdmt.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 1.771484 KB
+		No. of objects = 9
+		No. of TCP connections = 1
+		TCP Connections:
+				 388769:  Size of Content Downloaded = 1.771484 KB   No. of Objects  = 9
+
+	tag.contextweb.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 10.804688 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387957:  Size of Content Downloaded = 10.804688 KB   No. of Objects  = 1
+
+	mapping.yoyi.com.cn
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.000000 KB
+		No. of objects = 0
+		No. of TCP connections = 0
+		TCP Connections:
+
+	pixel.wp.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 1.257812 KB
+		No. of objects = 4
+		No. of TCP connections = 3
+		TCP Connections:
+				 387420:  Size of Content Downloaded = 0.314453 KB   No. of Objects  = 1
+				 387327:  Size of Content Downloaded = 0.628906 KB   No. of Objects  = 2
+				 387400:  Size of Content Downloaded = 0.314453 KB   No. of Objects  = 1
+
+	googleads.g.doubleclick.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 75.869141 KB
+		No. of objects = 19
+		No. of TCP connections = 1
+		TCP Connections:
+				 386527:  Size of Content Downloaded = 75.869141 KB   No. of Objects  = 19
+
+	images.loksatta.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 17.873047 KB
+		No. of objects = 2
+		No. of TCP connections = 2
+		TCP Connections:
+				 387055:  Size of Content Downloaded = 8.664062 KB   No. of Objects  = 1
+				 387062:  Size of Content Downloaded = 9.208984 KB   No. of Objects  = 1
+
+	mab.chartbeat.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.000000 KB
+		No. of objects = 0
+		No. of TCP connections = 0
+		TCP Connections:
+
+	vrt.outbrain.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.436523 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387265:  Size of Content Downloaded = 0.436523 KB   No. of Objects  = 1
+
+	vra.outbrain.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 8.766602 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387223:  Size of Content Downloaded = 8.766602 KB   No. of Objects  = 1
+
+	cdn.izooto.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 21.057617 KB
+		No. of objects = 2
+		No. of TCP connections = 1
+		TCP Connections:
+				 386850:  Size of Content Downloaded = 21.057617 KB   No. of Objects  = 2
+
+	static.adzerk.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 10.073242 KB
+		No. of objects = 2
+		No. of TCP connections = 2
+		TCP Connections:
+				 388420:  Size of Content Downloaded = 1.583008 KB   No. of Objects  = 1
+				 387483:  Size of Content Downloaded = 8.490234 KB   No. of Objects  = 1
+
+	ad.atdmt.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 2.089844 KB
+		No. of objects = 2
+		No. of TCP connections = 1
+		TCP Connections:
+				 388290:  Size of Content Downloaded = 2.089844 KB   No. of Objects  = 2
+
+	aktrack.pubmatic.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.902344 KB
+		No. of objects = 4
+		No. of TCP connections = 4
+		TCP Connections:
+				 389902:  Size of Content Downloaded = 0.225586 KB   No. of Objects  = 1
+				 388538:  Size of Content Downloaded = 0.225586 KB   No. of Objects  = 1
+				 388542:  Size of Content Downloaded = 0.225586 KB   No. of Objects  = 1
+				 389357:  Size of Content Downloaded = 0.225586 KB   No. of Objects  = 1
+
+	delivery.swid.switchadhub.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.000000 KB
+		No. of objects = 0
+		No. of TCP connections = 0
+		TCP Connections:
+
+	c.statcounter.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 1.267578 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 389075:  Size of Content Downloaded = 1.267578 KB   No. of Objects  = 1
+
+	www.google-analytics.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 14.689453 KB
+		No. of objects = 2
+		No. of TCP connections = 1
+		TCP Connections:
+				 387155:  Size of Content Downloaded = 14.689453 KB   No. of Objects  = 2
+
+	rp.gwallet.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.589844 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 390192:  Size of Content Downloaded = 0.589844 KB   No. of Objects  = 1
+
+	ping.chartbeat.net
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 1.743164 KB
+		No. of objects = 5
+		No. of TCP connections = 2
+		TCP Connections:
+				 389550:  Size of Content Downloaded = 0.697266 KB   No. of Objects  = 2
+				 389931:  Size of Content Downloaded = 1.045898 KB   No. of Objects  = 3
+
+	www.google.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.824219 KB
+		No. of objects = 3
+		No. of TCP connections = 2
+		TCP Connections:
+				 389976:  Size of Content Downloaded = 0.327148 KB   No. of Objects  = 1
+				 388570:  Size of Content Downloaded = 0.497070 KB   No. of Objects  = 2
+
+	q.crowdynews.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 3.887695 KB
+		No. of objects = 1
+		No. of TCP connections = 1
+		TCP Connections:
+				 387385:  Size of Content Downloaded = 3.887695 KB   No. of Objects  = 1
+
+	track.adtrue.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 0.480469 KB
+		No. of objects = 2
+		No. of TCP connections = 2
+		TCP Connections:
+				 389909:  Size of Content Downloaded = 0.240234 KB   No. of Objects  = 1
+				 389869:  Size of Content Downloaded = 0.240234 KB   No. of Objects  = 1
+
+	widget.crowdynews.com
+		DNS query time = -1.000000 ms
+		Size of content downloaded = 45.677734 KB
+		No. of objects = 4
+		No. of TCP connections = 2
+		TCP Connections:
+				 387002:  Size of Content Downloaded = 36.440430 KB   No. of Objects  = 3
+				 387764:  Size of Content Downloaded = 9.237305 KB   No. of Objects  = 1
+
+TCP Analysis:
+
+	386953:
+		Size of Content Downloaded = 52.155273 KB
+		Connection Time = 5.079000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 418.278000 ms
+		Total Receive Time = 9234.271000 ms
+		Average Goodput = 5.648012 KBps
+		Maximum Achieved GoodPut = 3.861299 KBps
+
+	388069:
+		Size of Content Downloaded = 0.701172 KB
+		Connection Time = 8.445000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1816.370000 ms
+		Total Receive Time = 3308.532000 ms
+		Average Goodput = 0.211928 KBps
+		Maximum Achieved GoodPut = 0.211928 KBps
+
+	389568:
+		Size of Content Downloaded = 4.630859 KB
+		Connection Time = 3.650000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1509.847000 ms
+		Total Receive Time = 5049.213000 ms
+		Average Goodput = 0.917145 KBps
+		Maximum Achieved GoodPut = 0.917145 KBps
+
+	387735:
+		Size of Content Downloaded = 1.812500 KB
+		Connection Time = 4.220000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 353.668250 ms
+		Total Receive Time = 11668.122000 ms
+		Average Goodput = 0.155338 KBps
+		Maximum Achieved GoodPut = 0.092489 KBps
+
+	387420:
+		Size of Content Downloaded = 0.314453 KB
+		Connection Time = 38.344000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 323.504000 ms
+		Total Receive Time = 8736.089000 ms
+		Average Goodput = 0.035995 KBps
+		Maximum Achieved GoodPut = 0.035995 KBps
+
+	388060:
+		Size of Content Downloaded = 0.701172 KB
+		Connection Time = 12.493000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1820.352000 ms
+		Total Receive Time = 7093.745000 ms
+		Average Goodput = 0.098844 KBps
+		Maximum Achieved GoodPut = 0.098844 KBps
+
+	387137:
+		Size of Content Downloaded = 4.284180 KB
+		Connection Time = 251.912000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 531.730000 ms
+		Total Receive Time = 8.241000 ms
+		Average Goodput = 519.861629 KBps
+		Maximum Achieved GoodPut = 519.861629 KBps
+
+	389869:
+		Size of Content Downloaded = 0.240234 KB
+		Connection Time = 21.039000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 727.855000 ms
+		Total Receive Time = 5322.970000 ms
+		Average Goodput = 0.045132 KBps
+		Maximum Achieved GoodPut = 0.045132 KBps
+
+	389065:
+		Size of Content Downloaded = 0.559570 KB
+		Connection Time = 5.561000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 104.789000 ms
+		Total Receive Time = 1238.732000 ms
+		Average Goodput = 0.451728 KBps
+		Maximum Achieved GoodPut = 0.451728 KBps
+
+	389381:
+		Size of Content Downloaded = 0.906250 KB
+		Connection Time = 3.652000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 156.858000 ms
+		Total Receive Time = 4121.571000 ms
+		Average Goodput = 0.219880 KBps
+		Maximum Achieved GoodPut = 0.886284 KBps
+
+	390192:
+		Size of Content Downloaded = 0.589844 KB
+		Connection Time = 961.661000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 178.961000 ms
+		Total Receive Time = 5016.434000 ms
+		Average Goodput = 0.117582 KBps
+		Maximum Achieved GoodPut = 0.117582 KBps
+
+	387957:
+		Size of Content Downloaded = 10.804688 KB
+		Connection Time = 302.830000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1460.426000 ms
+		Total Receive Time = 4589.660000 ms
+		Average Goodput = 2.354137 KBps
+		Maximum Achieved GoodPut = 2.354137 KBps
+
+	389897:
+		Size of Content Downloaded = 1.235352 KB
+		Connection Time = 58.651000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 214.910000 ms
+		Total Receive Time = 126.306000 ms
+		Average Goodput = 9.780625 KBps
+		Maximum Achieved GoodPut = 9.780625 KBps
+
+	388570:
+		Size of Content Downloaded = 0.497070 KB
+		Connection Time = 36.199000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 140.104500 ms
+		Total Receive Time = 11286.669000 ms
+		Average Goodput = 0.044040 KBps
+		Maximum Achieved GoodPut = 0.029721 KBps
+
+	387890:
+		Size of Content Downloaded = 0.389648 KB
+		Connection Time = 5.893000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1173.793000 ms
+		Total Receive Time = 4595.686000 ms
+		Average Goodput = 0.084786 KBps
+		Maximum Achieved GoodPut = 0.084786 KBps
+
+	389308:
+		Size of Content Downloaded = 0.445312 KB
+		Connection Time = 5.017000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1157.219000 ms
+		Total Receive Time = 3926.020000 ms
+		Average Goodput = 0.113426 KBps
+		Maximum Achieved GoodPut = 0.113426 KBps
+
+	389142:
+		Size of Content Downloaded = 0.449219 KB
+		Connection Time = 2.425000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1239.795000 ms
+		Total Receive Time = 193.887000 ms
+		Average Goodput = 2.316910 KBps
+		Maximum Achieved GoodPut = 2.316910 KBps
+
+	389261:
+		Size of Content Downloaded = 12.130859 KB
+		Connection Time = 5.240000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 34.547000 ms
+		Total Receive Time = 23.828000 ms
+		Average Goodput = 509.101032 KBps
+		Maximum Achieved GoodPut = 509.101032 KBps
+
+	387026:
+		Size of Content Downloaded = 9.211914 KB
+		Connection Time = 5.695000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1330.480000 ms
+		Total Receive Time = 29.130000 ms
+		Average Goodput = 316.234606 KBps
+		Maximum Achieved GoodPut = 316.234606 KBps
+
+	389265:
+		Size of Content Downloaded = 12.130859 KB
+		Connection Time = 3.818000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 39.121000 ms
+		Total Receive Time = 18.892000 ms
+		Average Goodput = 642.116206 KBps
+		Maximum Achieved GoodPut = 642.116206 KBps
+
+	388174:
+		Size of Content Downloaded = 3.254883 KB
+		Connection Time = 8.074000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 399.596000 ms
+		Total Receive Time = 4604.984000 ms
+		Average Goodput = 0.706817 KBps
+		Maximum Achieved GoodPut = 0.706817 KBps
+
+	389269:
+		Size of Content Downloaded = 2.328125 KB
+		Connection Time = 9.451000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 406.657000 ms
+		Total Receive Time = 3.310000 ms
+		Average Goodput = 703.361027 KBps
+		Maximum Achieved GoodPut = 703.361027 KBps
+
+	387781:
+		Size of Content Downloaded = 44.487305 KB
+		Connection Time = 246.901000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 79.472500 ms
+		Total Receive Time = 8730.725000 ms
+		Average Goodput = 5.095488 KBps
+		Maximum Achieved GoodPut = 9.815832 KBps
+
+	387223:
+		Size of Content Downloaded = 8.766602 KB
+		Connection Time = 46.213000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 183.541000 ms
+		Total Receive Time = 4.540000 ms
+		Average Goodput = 1930.969503 KBps
+		Maximum Achieved GoodPut = 1930.969503 KBps
+
+	389931:
+		Size of Content Downloaded = 1.045898 KB
+		Connection Time = 6.605000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 538.914667 ms
+		Total Receive Time = 12221.555000 ms
+		Average Goodput = 0.085578 KBps
+		Maximum Achieved GoodPut = 0.082575 KBps
+
+	387947:
+		Size of Content Downloaded = 4.604492 KB
+		Connection Time = 307.385000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 679.393000 ms
+		Total Receive Time = 4734.334000 ms
+		Average Goodput = 0.972574 KBps
+		Maximum Achieved GoodPut = 0.972574 KBps
+
+	388114:
+		Size of Content Downloaded = 28.634766 KB
+		Connection Time = 6.347000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 15.825000 ms
+		Total Receive Time = 245.952000 ms
+		Average Goodput = 116.424203 KBps
+		Maximum Achieved GoodPut = 116.424203 KBps
+
+	389902:
+		Size of Content Downloaded = 0.225586 KB
+		Connection Time = 63.778000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 206.991000 ms
+		Total Receive Time = 126.694000 ms
+		Average Goodput = 1.780557 KBps
+		Maximum Achieved GoodPut = 1.780557 KBps
+
+	387943:
+		Size of Content Downloaded = 4.662109 KB
+		Connection Time = 309.110000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 713.394000 ms
+		Total Receive Time = 4701.394000 ms
+		Average Goodput = 0.991644 KBps
+		Maximum Achieved GoodPut = 0.991644 KBps
+
+	388290:
+		Size of Content Downloaded = 2.089844 KB
+		Connection Time = 94.317000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 353.489000 ms
+		Total Receive Time = 8102.608000 ms
+		Average Goodput = 0.257922 KBps
+		Maximum Achieved GoodPut = 0.242940 KBps
+
+	387288:
+		Size of Content Downloaded = 34.762695 KB
+		Connection Time = 9.804000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 219.408000 ms
+		Total Receive Time = 4667.334000 ms
+		Average Goodput = 7.448084 KBps
+		Maximum Achieved GoodPut = 7.448084 KBps
+
+	387820:
+		Size of Content Downloaded = 0.695312 KB
+		Connection Time = 14.985000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 40.752000 ms
+		Total Receive Time = 4161.881000 ms
+		Average Goodput = 0.167067 KBps
+		Maximum Achieved GoodPut = 0.167067 KBps
+
+	389420:
+		Size of Content Downloaded = 0.445312 KB
+		Connection Time = 2.654000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1278.636000 ms
+		Total Receive Time = 2219.747000 ms
+		Average Goodput = 0.200614 KBps
+		Maximum Achieved GoodPut = 0.200614 KBps
+
+	388693:
+		Size of Content Downloaded = 0.505859 KB
+		Connection Time = 30.977000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 66.465000 ms
+		Total Receive Time = 8731.236000 ms
+		Average Goodput = 0.057937 KBps
+		Maximum Achieved GoodPut = 0.057937 KBps
+
+	389075:
+		Size of Content Downloaded = 1.267578 KB
+		Connection Time = 4.964000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 341.075000 ms
+		Total Receive Time = 710.952000 ms
+		Average Goodput = 1.782931 KBps
+		Maximum Achieved GoodPut = 1.782931 KBps
+
+	386921:
+		Size of Content Downloaded = 111.692383 KB
+		Connection Time = 10.648000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 305.386176 ms
+		Total Receive Time = 104566.802000 ms
+		Average Goodput = 1.068144 KBps
+		Maximum Achieved GoodPut = 6.257224 KBps
+
+	388750:
+		Size of Content Downloaded = 0.906250 KB
+		Connection Time = 171.979000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 158.806500 ms
+		Total Receive Time = 9838.625000 ms
+		Average Goodput = 0.092111 KBps
+		Maximum Achieved GoodPut = 0.051448 KBps
+
+	389700:
+		Size of Content Downloaded = 12.399414 KB
+		Connection Time = 4.324000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1077.297000 ms
+		Total Receive Time = 2964.007000 ms
+		Average Goodput = 4.183328 KBps
+		Maximum Achieved GoodPut = 139.900902 KBps
+
+	388910:
+		Size of Content Downloaded = 0.619141 KB
+		Connection Time = 3.075000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1265.771000 ms
+		Total Receive Time = 4502.731000 ms
+		Average Goodput = 0.137503 KBps
+		Maximum Achieved GoodPut = 0.137503 KBps
+
+	389662:
+		Size of Content Downloaded = 12.130859 KB
+		Connection Time = 276.157000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 34.537000 ms
+		Total Receive Time = 778.605000 ms
+		Average Goodput = 15.580248 KBps
+		Maximum Achieved GoodPut = 15.580248 KBps
+
+	387030:
+		Size of Content Downloaded = 5.589844 KB
+		Connection Time = 4.541000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1329.688000 ms
+		Total Receive Time = 28.459000 ms
+		Average Goodput = 196.417434 KBps
+		Maximum Achieved GoodPut = 196.417434 KBps
+
+	386896:
+		Size of Content Downloaded = 1.099609 KB
+		Connection Time = 13.724000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 309.329000 ms
+		Total Receive Time = 7.760000 ms
+		Average Goodput = 141.702239 KBps
+		Maximum Achieved GoodPut = 141.702239 KBps
+
+	388993:
+		Size of Content Downloaded = 29.194336 KB
+		Connection Time = 23.672000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 60.849500 ms
+		Total Receive Time = 505.777000 ms
+		Average Goodput = 57.721755 KBps
+		Maximum Achieved GoodPut = 136.535473 KBps
+
+	390050:
+		Size of Content Downloaded = 0.574219 KB
+		Connection Time = 10.067000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 177.767000 ms
+		Total Receive Time = 1202.150000 ms
+		Average Goodput = 0.477660 KBps
+		Maximum Achieved GoodPut = 0.477660 KBps
+
+	387039:
+		Size of Content Downloaded = 0.284180 KB
+		Connection Time = 61.321000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1254.996000 ms
+		Total Receive Time = 11.010000 ms
+		Average Goodput = 25.811052 KBps
+		Maximum Achieved GoodPut = 25.811052 KBps
+
+	387055:
+		Size of Content Downloaded = 8.664062 KB
+		Connection Time = 1220.068000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 956.607000 ms
+		Total Receive Time = 378.106000 ms
+		Average Goodput = 22.914375 KBps
+		Maximum Achieved GoodPut = 22.914375 KBps
+
+	389682:
+		Size of Content Downloaded = 2.030273 KB
+		Connection Time = 273.175000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 302.950000 ms
+		Total Receive Time = 510.631000 ms
+		Average Goodput = 3.976009 KBps
+		Maximum Achieved GoodPut = 3.976009 KBps
+
+	388280:
+		Size of Content Downloaded = 29.779297 KB
+		Connection Time = 2.522000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 12.945000 ms
+		Total Receive Time = 4592.835000 ms
+		Average Goodput = 6.483860 KBps
+		Maximum Achieved GoodPut = 6.483860 KBps
+
+	387519:
+		Size of Content Downloaded = 1.119141 KB
+		Connection Time = 6.135000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 48.735000 ms
+		Total Receive Time = 8670.033000 ms
+		Average Goodput = 0.129081 KBps
+		Maximum Achieved GoodPut = 0.129081 KBps
+
+	387526:
+		Size of Content Downloaded = 0.389648 KB
+		Connection Time = 18.700000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 211.936000 ms
+		Total Receive Time = 8435.999000 ms
+		Average Goodput = 0.046189 KBps
+		Maximum Achieved GoodPut = 0.046189 KBps
+
+	387834:
+		Size of Content Downloaded = 2.588867 KB
+		Connection Time = 7.354000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 692.396000 ms
+		Total Receive Time = 3417.394000 ms
+		Average Goodput = 0.757556 KBps
+		Maximum Achieved GoodPut = 0.757556 KBps
+
+	386935:
+		Size of Content Downloaded = 112.148438 KB
+		Connection Time = 7.577000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 302.230933 ms
+		Total Receive Time = 82831.283000 ms
+		Average Goodput = 1.353938 KBps
+		Maximum Achieved GoodPut = 2.799410 KBps
+
+	388680:
+		Size of Content Downloaded = 20.507812 KB
+		Connection Time = 38.333000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 6.036500 ms
+		Total Receive Time = 8783.999000 ms
+		Average Goodput = 2.334678 KBps
+		Maximum Achieved GoodPut = 2.260858 KBps
+
+	389284:
+		Size of Content Downloaded = 0.563477 KB
+		Connection Time = 547.399000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 160.350000 ms
+		Total Receive Time = 4834.563000 ms
+		Average Goodput = 0.116552 KBps
+		Maximum Achieved GoodPut = 0.116552 KBps
+
+	388686:
+		Size of Content Downloaded = 0.551758 KB
+		Connection Time = 36.872000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 43.509000 ms
+		Total Receive Time = 8752.764000 ms
+		Average Goodput = 0.063038 KBps
+		Maximum Achieved GoodPut = 0.063038 KBps
+
+	386939:
+		Size of Content Downloaded = 133.554688 KB
+		Connection Time = 7.241000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 282.652800 ms
+		Total Receive Time = 65157.324000 ms
+		Average Goodput = 2.049726 KBps
+		Maximum Achieved GoodPut = 4.377147 KBps
+
+	388844:
+		Size of Content Downloaded = 0.519531 KB
+		Connection Time = -1.000000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 195.986000 ms
+		Total Receive Time = 636.289000 ms
+		Average Goodput = 0.816502 KBps
+		Maximum Achieved GoodPut = 213.487815 KBps
+
+	389530:
+		Size of Content Downloaded = 0.917969 KB
+		Connection Time = 2.021000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 618.924000 ms
+		Total Receive Time = 1.479000 ms
+		Average Goodput = 620.668527 KBps
+		Maximum Achieved GoodPut = 620.668527 KBps
+
+	390023:
+		Size of Content Downloaded = 109.171875 KB
+		Connection Time = 54.238000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 10.701000 ms
+		Total Receive Time = 61.031000 ms
+		Average Goodput = 1788.793810 KBps
+		Maximum Achieved GoodPut = 1788.793810 KBps
+
+	390028:
+		Size of Content Downloaded = 0.365234 KB
+		Connection Time = 53.658000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 107.174000 ms
+		Total Receive Time = 15.429000 ms
+		Average Goodput = 23.671941 KBps
+		Maximum Achieved GoodPut = 23.671941 KBps
+
+	388921:
+		Size of Content Downloaded = 2.292969 KB
+		Connection Time = 29.598000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 26.492000 ms
+		Total Receive Time = 5549.428000 ms
+		Average Goodput = 0.413190 KBps
+		Maximum Achieved GoodPut = 0.413190 KBps
+
+	388345:
+		Size of Content Downloaded = 0.906250 KB
+		Connection Time = 748.462000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 662.593500 ms
+		Total Receive Time = 15843.666000 ms
+		Average Goodput = 0.057200 KBps
+		Maximum Achieved GoodPut = 0.065292 KBps
+
+	388372:
+		Size of Content Downloaded = 30.426758 KB
+		Connection Time = 31.531000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 9.365500 ms
+		Total Receive Time = 4001.767000 ms
+		Average Goodput = 7.603331 KBps
+		Maximum Achieved GoodPut = 7.441537 KBps
+
+	387327:
+		Size of Content Downloaded = 0.628906 KB
+		Connection Time = 34.401000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 212.453500 ms
+		Total Receive Time = 8606.782000 ms
+		Average Goodput = 0.073071 KBps
+		Maximum Achieved GoodPut = 0.071588 KBps
+
+	389365:
+		Size of Content Downloaded = 35.157227 KB
+		Connection Time = 12.563000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 2705.175000 ms
+		Total Receive Time = 1132.365000 ms
+		Average Goodput = 31.047610 KBps
+		Maximum Achieved GoodPut = 30.778538 KBps
+
+	388727:
+		Size of Content Downloaded = 1.144531 KB
+		Connection Time = 1089.593000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 40.413000 ms
+		Total Receive Time = 8839.279000 ms
+		Average Goodput = 0.129482 KBps
+		Maximum Achieved GoodPut = 0.129482 KBps
+
+	386527:
+		Size of Content Downloaded = 75.869141 KB
+		Connection Time = -1.000000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 320.576158 ms
+		Total Receive Time = 50675.935000 ms
+		Average Goodput = 1.497143 KBps
+		Maximum Achieved GoodPut = 12.231288 KBps
+
+	389475:
+		Size of Content Downloaded = 3.034180 KB
+		Connection Time = 3.882000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 63.657000 ms
+		Total Receive Time = 4823.930000 ms
+		Average Goodput = 0.628985 KBps
+		Maximum Achieved GoodPut = 0.628985 KBps
+
+	387202:
+		Size of Content Downloaded = 0.720703 KB
+		Connection Time = 174.467000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 666.799000 ms
+		Total Receive Time = 13.098000 ms
+		Average Goodput = 55.023906 KBps
+		Maximum Achieved GoodPut = 55.023906 KBps
+
+	387920:
+		Size of Content Downloaded = 5.083984 KB
+		Connection Time = 316.411000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 440.315000 ms
+		Total Receive Time = 3.849000 ms
+		Average Goodput = 1320.858502 KBps
+		Maximum Achieved GoodPut = 1320.858502 KBps
+
+	387062:
+		Size of Content Downloaded = 9.208984 KB
+		Connection Time = 1216.556000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 949.203000 ms
+		Total Receive Time = 11.777000 ms
+		Average Goodput = 781.946538 KBps
+		Maximum Achieved GoodPut = 781.946538 KBps
+
+	389919:
+		Size of Content Downloaded = 2.718750 KB
+		Connection Time = 84.784000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 163.564167 ms
+		Total Receive Time = 13897.896000 ms
+		Average Goodput = 0.195623 KBps
+		Maximum Achieved GoodPut = 0.090760 KBps
+
+	389691:
+		Size of Content Downloaded = 1.359375 KB
+		Connection Time = 8.438000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 159.037333 ms
+		Total Receive Time = 4236.780000 ms
+		Average Goodput = 0.320851 KBps
+		Maximum Achieved GoodPut = 1.067136 KBps
+
+	387929:
+		Size of Content Downloaded = 4.567383 KB
+		Connection Time = 313.599000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 678.717000 ms
+		Total Receive Time = 4735.193000 ms
+		Average Goodput = 0.964561 KBps
+		Maximum Achieved GoodPut = 0.964561 KBps
+
+	388136:
+		Size of Content Downloaded = 189.352539 KB
+		Connection Time = 16.769000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 13.431000 ms
+		Total Receive Time = 1420.493000 ms
+		Average Goodput = 133.300579 KBps
+		Maximum Achieved GoodPut = 1538.190973 KBps
+
+	388131:
+		Size of Content Downloaded = 0.449219 KB
+		Connection Time = -1.000000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 360.936333 ms
+		Total Receive Time = 17370.371000 ms
+		Average Goodput = 0.025861 KBps
+		Maximum Achieved GoodPut = 0.077403 KBps
+
+	388336:
+		Size of Content Downloaded = 0.445312 KB
+		Connection Time = 4.962000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1284.929000 ms
+		Total Receive Time = 3309.120000 ms
+		Average Goodput = 0.134571 KBps
+		Maximum Achieved GoodPut = 0.134571 KBps
+
+	386903:
+		Size of Content Downloaded = 6.478516 KB
+		Connection Time = 13.357000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1503.994000 ms
+		Total Receive Time = 9.575000 ms
+		Average Goodput = 676.607376 KBps
+		Maximum Achieved GoodPut = 676.607376 KBps
+
+	389116:
+		Size of Content Downloaded = 0.424805 KB
+		Connection Time = 13.415000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 323.159000 ms
+		Total Receive Time = 3589.311000 ms
+		Average Goodput = 0.118353 KBps
+		Maximum Achieved GoodPut = 0.118353 KBps
+
+	389298:
+		Size of Content Downloaded = 4.459961 KB
+		Connection Time = 3.996000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 74.823000 ms
+		Total Receive Time = 5.314000 ms
+		Average Goodput = 839.285085 KBps
+		Maximum Achieved GoodPut = 839.285085 KBps
+
+	389056:
+		Size of Content Downloaded = 0.610352 KB
+		Connection Time = 5.837000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 90.613000 ms
+		Total Receive Time = 1299.912000 ms
+		Average Goodput = 0.469533 KBps
+		Maximum Achieved GoodPut = 0.469533 KBps
+
+	389598:
+		Size of Content Downloaded = 0.812500 KB
+		Connection Time = 78.945000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 304.183000 ms
+		Total Receive Time = 2.122000 ms
+		Average Goodput = 382.893496 KBps
+		Maximum Achieved GoodPut = 382.893496 KBps
+
+	389624:
+		Size of Content Downloaded = 0.714844 KB
+		Connection Time = 904.923000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 272.420000 ms
+		Total Receive Time = 3089.023000 ms
+		Average Goodput = 0.231414 KBps
+		Maximum Achieved GoodPut = 0.231414 KBps
+
+	389450:
+		Size of Content Downloaded = 0.453125 KB
+		Connection Time = 3.469000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 336.176000 ms
+		Total Receive Time = 63.213000 ms
+		Average Goodput = 7.168225 KBps
+		Maximum Achieved GoodPut = 7.168225 KBps
+
+	389592:
+		Size of Content Downloaded = 12.130859 KB
+		Connection Time = 3.410000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 43.745000 ms
+		Total Receive Time = 49.372000 ms
+		Average Goodput = 245.703220 KBps
+		Maximum Achieved GoodPut = 245.703220 KBps
+
+	387440:
+		Size of Content Downloaded = 59.827148 KB
+		Connection Time = 36.159000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 244.494667 ms
+		Total Receive Time = 66567.774000 ms
+		Average Goodput = 0.898740 KBps
+		Maximum Achieved GoodPut = 2.000308 KBps
+
+	387112:
+		Size of Content Downloaded = 0.942383 KB
+		Connection Time = 1315.754000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 517.968000 ms
+		Total Receive Time = 4.636000 ms
+		Average Goodput = 203.274981 KBps
+		Maximum Achieved GoodPut = 203.274981 KBps
+
+	388044:
+		Size of Content Downloaded = 0.453125 KB
+		Connection Time = 10.291000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 165.289000 ms
+		Total Receive Time = 698.415000 ms
+		Average Goodput = 0.648790 KBps
+		Maximum Achieved GoodPut = 0.648790 KBps
+
+	389441:
+		Size of Content Downloaded = 1.206055 KB
+		Connection Time = 4.267000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 636.268000 ms
+		Total Receive Time = 12.396000 ms
+		Average Goodput = 97.293860 KBps
+		Maximum Achieved GoodPut = 97.293860 KBps
+
+	389605:
+		Size of Content Downloaded = 0.449219 KB
+		Connection Time = 8.485000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 609.383000 ms
+		Total Receive Time = 4034.385000 ms
+		Average Goodput = 0.111348 KBps
+		Maximum Achieved GoodPut = 0.111348 KBps
+
+	387351:
+		Size of Content Downloaded = 0.453125 KB
+		Connection Time = 13.224000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 221.563000 ms
+		Total Receive Time = 4390.104000 ms
+		Average Goodput = 0.103215 KBps
+		Maximum Achieved GoodPut = 0.103215 KBps
+
+	386593:
+		Size of Content Downloaded = 162.035156 KB
+		Connection Time = -1.000000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 149.721000 ms
+		Total Receive Time = 60635.811000 ms
+		Average Goodput = 2.672268 KBps
+		Maximum Achieved GoodPut = 376.660817 KBps
+
+	387177:
+		Size of Content Downloaded = 2.375977 KB
+		Connection Time = 59.147000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 45.906000 ms
+		Total Receive Time = 708.857000 ms
+		Average Goodput = 3.351842 KBps
+		Maximum Achieved GoodPut = 3.351842 KBps
+
+	388027:
+		Size of Content Downloaded = 0.016602 KB
+		Connection Time = 539.779000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 421.325000 ms
+		Total Receive Time = 4199.018000 ms
+		Average Goodput = 0.003954 KBps
+		Maximum Achieved GoodPut = 0.003954 KBps
+
+	388141:
+		Size of Content Downloaded = 5.558594 KB
+		Connection Time = -1.000000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 159.746800 ms
+		Total Receive Time = 9209.545000 ms
+		Average Goodput = 0.603569 KBps
+		Maximum Achieved GoodPut = 10.641621 KBps
+
+	389101:
+		Size of Content Downloaded = 12.130859 KB
+		Connection Time = 6.121000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 32.733000 ms
+		Total Receive Time = 1026.480000 ms
+		Average Goodput = 11.817921 KBps
+		Maximum Achieved GoodPut = 11.817921 KBps
+
+	386855:
+		Size of Content Downloaded = 1.475586 KB
+		Connection Time = 48.387000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 90.063000 ms
+		Total Receive Time = 1.553000 ms
+		Average Goodput = 950.151918 KBps
+		Maximum Achieved GoodPut = 950.151918 KBps
+
+	389105:
+		Size of Content Downloaded = 0.291992 KB
+		Connection Time = 5.726000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 612.075000 ms
+		Total Receive Time = 447.409000 ms
+		Average Goodput = 0.652629 KBps
+		Maximum Achieved GoodPut = 0.652629 KBps
+
+	386850:
+		Size of Content Downloaded = 21.057617 KB
+		Connection Time = 48.317000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 9.610500 ms
+		Total Receive Time = 10.666000 ms
+		Average Goodput = 1974.275003 KBps
+		Maximum Achieved GoodPut = 3082.812735 KBps
+
+	386698:
+		Size of Content Downloaded = 19.501953 KB
+		Connection Time = 2.530000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 332.790000 ms
+		Total Receive Time = 152.576000 ms
+		Average Goodput = 127.817960 KBps
+		Maximum Achieved GoodPut = 127.817960 KBps
+
+	386913:
+		Size of Content Downloaded = 4.756836 KB
+		Connection Time = 11.456000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 182.053000 ms
+		Total Receive Time = 2.415000 ms
+		Average Goodput = 1969.704314 KBps
+		Maximum Achieved GoodPut = 1969.704314 KBps
+
+	387999:
+		Size of Content Downloaded = 36.392578 KB
+		Connection Time = 383.844000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 84.244333 ms
+		Total Receive Time = 4404.437000 ms
+		Average Goodput = 8.262708 KBps
+		Maximum Achieved GoodPut = 321.032614 KBps
+
+	390124:
+		Size of Content Downloaded = 0.481445 KB
+		Connection Time = -1.000000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 354.262000 ms
+		Total Receive Time = 5173.918000 ms
+		Average Goodput = 0.093052 KBps
+		Maximum Achieved GoodPut = 4.644395 KBps
+
+	388538:
+		Size of Content Downloaded = 0.225586 KB
+		Connection Time = 7.205000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 203.004000 ms
+		Total Receive Time = 2338.092000 ms
+		Average Goodput = 0.096483 KBps
+		Maximum Achieved GoodPut = 0.096483 KBps
+
+	387265:
+		Size of Content Downloaded = 0.436523 KB
+		Connection Time = 75.609000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 613.204000 ms
+		Total Receive Time = 9074.485000 ms
+		Average Goodput = 0.048104 KBps
+		Maximum Achieved GoodPut = 0.048104 KBps
+
+	389968:
+		Size of Content Downloaded = 12.293945 KB
+		Connection Time = 20.905000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 13.734333 ms
+		Total Receive Time = 211.632000 ms
+		Average Goodput = 58.091146 KBps
+		Maximum Achieved GoodPut = 112.230979 KBps
+
+	388984:
+		Size of Content Downloaded = 0.559570 KB
+		Connection Time = 2.104000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 98.119000 ms
+		Total Receive Time = 335.538000 ms
+		Average Goodput = 1.667681 KBps
+		Maximum Achieved GoodPut = 1.667681 KBps
+
+	388702:
+		Size of Content Downloaded = 0.906250 KB
+		Connection Time = 8.238000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 154.431000 ms
+		Total Receive Time = 8467.349000 ms
+		Average Goodput = 0.107029 KBps
+		Maximum Achieved GoodPut = 0.055728 KBps
+
+	389501:
+		Size of Content Downloaded = 13.238281 KB
+		Connection Time = 5.212000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 5699.254000 ms
+		Total Receive Time = 3.325000 ms
+		Average Goodput = 3981.437972 KBps
+		Maximum Achieved GoodPut = 3981.437972 KBps
+
+	387459:
+		Size of Content Downloaded = 0.346680 KB
+		Connection Time = 3.318000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 28.251000 ms
+		Total Receive Time = 4185.930000 ms
+		Average Goodput = 0.082820 KBps
+		Maximum Achieved GoodPut = 0.082820 KBps
+
+	389616:
+		Size of Content Downloaded = 0.449219 KB
+		Connection Time = 2.208000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1173.809000 ms
+		Total Receive Time = 3362.123000 ms
+		Average Goodput = 0.133612 KBps
+		Maximum Achieved GoodPut = 0.133612 KBps
+
+	386702:
+		Size of Content Downloaded = 50.595703 KB
+		Connection Time = 10.425000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 307.585000 ms
+		Total Receive Time = 299.454000 ms
+		Average Goodput = 168.959851 KBps
+		Maximum Achieved GoodPut = 168.959851 KBps
+
+	388011:
+		Size of Content Downloaded = 0.449219 KB
+		Connection Time = 17.854000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 309.520000 ms
+		Total Receive Time = 4624.360000 ms
+		Average Goodput = 0.097142 KBps
+		Maximum Achieved GoodPut = 0.097142 KBps
+
+	387002:
+		Size of Content Downloaded = 36.440430 KB
+		Connection Time = 4.309000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 38.974000 ms
+		Total Receive Time = 4716.183000 ms
+		Average Goodput = 7.726678 KBps
+		Maximum Achieved GoodPut = 238.009815 KBps
+
+	387906:
+		Size of Content Downloaded = 12.380859 KB
+		Connection Time = 327.684000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 412.492000 ms
+		Total Receive Time = 47.123000 ms
+		Average Goodput = 262.734957 KBps
+		Maximum Achieved GoodPut = 262.734957 KBps
+
+	390212:
+		Size of Content Downloaded = 0.541016 KB
+		Connection Time = 1250.595000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 220.328000 ms
+		Total Receive Time = 4265.773000 ms
+		Average Goodput = 0.126827 KBps
+		Maximum Achieved GoodPut = 0.126827 KBps
+
+	388792:
+		Size of Content Downloaded = 0.445312 KB
+		Connection Time = 3.854000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1302.437000 ms
+		Total Receive Time = 100.495000 ms
+		Average Goodput = 4.431191 KBps
+		Maximum Achieved GoodPut = 4.431191 KBps
+
+	389540:
+		Size of Content Downloaded = 17.010742 KB
+		Connection Time = 1.933000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 547.796000 ms
+		Total Receive Time = 4158.710000 ms
+		Average Goodput = 4.090389 KBps
+		Maximum Achieved GoodPut = 4.090389 KBps
+
+	387989:
+		Size of Content Downloaded = 4.582031 KB
+		Connection Time = 281.517000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 135.049000 ms
+		Total Receive Time = 226.480000 ms
+		Average Goodput = 20.231505 KBps
+		Maximum Achieved GoodPut = 360.619491 KBps
+
+	386967:
+		Size of Content Downloaded = 14.027344 KB
+		Connection Time = 11.866000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 226.501250 ms
+		Total Receive Time = 4494.752000 ms
+		Average Goodput = 3.120827 KBps
+		Maximum Achieved GoodPut = 914.105046 KBps
+
+	388420:
+		Size of Content Downloaded = 1.583008 KB
+		Connection Time = 89.870000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 33.392000 ms
+		Total Receive Time = 259.833000 ms
+		Average Goodput = 6.092405 KBps
+		Maximum Achieved GoodPut = 6.092405 KBps
+
+	387273:
+		Size of Content Downloaded = 0.373047 KB
+		Connection Time = 72.545000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 612.011000 ms
+		Total Receive Time = 9066.350000 ms
+		Average Goodput = 0.041146 KBps
+		Maximum Achieved GoodPut = 0.041146 KBps
+
+	388224:
+		Size of Content Downloaded = 0.016602 KB
+		Connection Time = 6.345000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 332.196000 ms
+		Total Receive Time = 8525.136000 ms
+		Average Goodput = 0.001947 KBps
+		Maximum Achieved GoodPut = 0.001947 KBps
+
+	389987:
+		Size of Content Downloaded = 3.532227 KB
+		Connection Time = 2.117000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1139.140000 ms
+		Total Receive Time = 7546.722000 ms
+		Average Goodput = 0.468048 KBps
+		Maximum Achieved GoodPut = 0.468048 KBps
+
+	389509:
+		Size of Content Downloaded = 0.445312 KB
+		Connection Time = 2.907000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 381.136000 ms
+		Total Receive Time = 4254.740000 ms
+		Average Goodput = 0.104663 KBps
+		Maximum Achieved GoodPut = 0.104663 KBps
+
+	389645:
+		Size of Content Downloaded = 0.445312 KB
+		Connection Time = 3.863000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1313.229000 ms
+		Total Receive Time = 2.491000 ms
+		Average Goodput = 178.768567 KBps
+		Maximum Achieved GoodPut = 178.768567 KBps
+
+	388815:
+		Size of Content Downloaded = 70.966797 KB
+		Connection Time = 913.790000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 53.778000 ms
+		Total Receive Time = 133.108000 ms
+		Average Goodput = 533.152003 KBps
+		Maximum Achieved GoodPut = 528.317172 KBps
+
+	390057:
+		Size of Content Downloaded = 0.223633 KB
+		Connection Time = 978.067000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1373.454000 ms
+		Total Receive Time = 5086.853000 ms
+		Average Goodput = 0.043963 KBps
+		Maximum Achieved GoodPut = 0.043963 KBps
+
+	388228:
+		Size of Content Downloaded = 0.016602 KB
+		Connection Time = 41.041000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 395.675000 ms
+		Total Receive Time = 8555.935000 ms
+		Average Goodput = 0.001940 KBps
+		Maximum Achieved GoodPut = 0.001940 KBps
+
+	388890:
+		Size of Content Downloaded = 10.431641 KB
+		Connection Time = 6514.120000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 35.615000 ms
+		Total Receive Time = 132.939000 ms
+		Average Goodput = 78.469378 KBps
+		Maximum Achieved GoodPut = 78.469378 KBps
+
+	387504:
+		Size of Content Downloaded = 5.778320 KB
+		Connection Time = 5.849000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 303.711000 ms
+		Total Receive Time = 8430.856000 ms
+		Average Goodput = 0.685378 KBps
+		Maximum Achieved GoodPut = 0.685378 KBps
+
+	386993:
+		Size of Content Downloaded = 9.000000 KB
+		Connection Time = 16.754000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 593.657667 ms
+		Total Receive Time = 4650.777000 ms
+		Average Goodput = 1.935161 KBps
+		Maximum Achieved GoodPut = 45.748895 KBps
+
+	388303:
+		Size of Content Downloaded = 28.548828 KB
+		Connection Time = 12.867000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 10.017500 ms
+		Total Receive Time = 9725.422000 ms
+		Average Goodput = 2.935485 KBps
+		Maximum Achieved GoodPut = 1.461272 KBps
+
+	389332:
+		Size of Content Downloaded = 0.653320 KB
+		Connection Time = 253.377000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 273.327000 ms
+		Total Receive Time = 50.774000 ms
+		Average Goodput = 12.867222 KBps
+		Maximum Achieved GoodPut = 12.867222 KBps
+
+	388542:
+		Size of Content Downloaded = 0.225586 KB
+		Connection Time = -1.000000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 80.939000 ms
+		Total Receive Time = 5790.629000 ms
+		Average Goodput = 0.038957 KBps
+		Maximum Achieved GoodPut = 0.038957 KBps
+
+	387155:
+		Size of Content Downloaded = 14.689453 KB
+		Connection Time = 411.300000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 53.533500 ms
+		Total Receive Time = 4939.771000 ms
+		Average Goodput = 2.973711 KBps
+		Maximum Achieved GoodPut = 1071.440553 KBps
+
+	390180:
+		Size of Content Downloaded = 0.445312 KB
+		Connection Time = 3.448000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1324.281000 ms
+		Total Receive Time = 5086.662000 ms
+		Average Goodput = 0.087545 KBps
+		Maximum Achieved GoodPut = 0.087545 KBps
+
+	387406:
+		Size of Content Downloaded = 0.445312 KB
+		Connection Time = 51.079000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 385.177000 ms
+		Total Receive Time = 4011.070000 ms
+		Average Goodput = 0.111021 KBps
+		Maximum Achieved GoodPut = 0.111021 KBps
+
+	386571:
+		Size of Content Downloaded = 22.058594 KB
+		Connection Time = 256.411000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 316.181000 ms
+		Total Receive Time = 434.332000 ms
+		Average Goodput = 50.787402 KBps
+		Maximum Achieved GoodPut = 50.787402 KBps
+
+	387400:
+		Size of Content Downloaded = 0.314453 KB
+		Connection Time = -1.000000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 347.231000 ms
+		Total Receive Time = 4015.420000 ms
+		Average Goodput = 0.078311 KBps
+		Maximum Achieved GoodPut = 0.078311 KBps
+
+	389746:
+		Size of Content Downloaded = 0.942383 KB
+		Connection Time = 1.895000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 327.240000 ms
+		Total Receive Time = 9.254000 ms
+		Average Goodput = 101.835186 KBps
+		Maximum Achieved GoodPut = 101.835186 KBps
+
+	386872:
+		Size of Content Downloaded = 8.813477 KB
+		Connection Time = 5.052000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 295.301000 ms
+		Total Receive Time = 6.855000 ms
+		Average Goodput = 1285.700447 KBps
+		Maximum Achieved GoodPut = 1285.700447 KBps
+
+	387483:
+		Size of Content Downloaded = 8.490234 KB
+		Connection Time = 33.692000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 240.044000 ms
+		Total Receive Time = 8645.842000 ms
+		Average Goodput = 0.982002 KBps
+		Maximum Achieved GoodPut = 0.982002 KBps
+
+	386971:
+		Size of Content Downloaded = 4.681641 KB
+		Connection Time = 9.629000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1449.875000 ms
+		Total Receive Time = 3.381000 ms
+		Average Goodput = 1384.691104 KBps
+		Maximum Achieved GoodPut = 1384.691104 KBps
+
+	387975:
+		Size of Content Downloaded = 0.872070 KB
+		Connection Time = 295.714000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1462.157000 ms
+		Total Receive Time = 4587.861000 ms
+		Average Goodput = 0.190082 KBps
+		Maximum Achieved GoodPut = 0.190082 KBps
+
+	389109:
+		Size of Content Downloaded = 0.461914 KB
+		Connection Time = 4.072000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 614.634000 ms
+		Total Receive Time = 445.766000 ms
+		Average Goodput = 1.036225 KBps
+		Maximum Achieved GoodPut = 1.036225 KBps
+
+	388963:
+		Size of Content Downloaded = 0.453125 KB
+		Connection Time = 2.459000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 162.899000 ms
+		Total Receive Time = 4675.031000 ms
+		Average Goodput = 0.096924 KBps
+		Maximum Achieved GoodPut = 0.096924 KBps
+
+	388252:
+		Size of Content Downloaded = 12.130859 KB
+		Connection Time = 14.206000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 69.788000 ms
+		Total Receive Time = 4623.714000 ms
+		Average Goodput = 2.623618 KBps
+		Maximum Achieved GoodPut = 2.623618 KBps
+
+	387363:
+		Size of Content Downloaded = 9.193359 KB
+		Connection Time = 19.081000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 458.801500 ms
+		Total Receive Time = 13217.177000 ms
+		Average Goodput = 0.695561 KBps
+		Maximum Achieved GoodPut = 1.046713 KBps
+
+	389976:
+		Size of Content Downloaded = 0.327148 KB
+		Connection Time = 32.416000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1145.764000 ms
+		Total Receive Time = 7550.105000 ms
+		Average Goodput = 0.043330 KBps
+		Maximum Achieved GoodPut = 0.043330 KBps
+
+	388259:
+		Size of Content Downloaded = 2.096680 KB
+		Connection Time = 13.616000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1512.228000 ms
+		Total Receive Time = 3311.617000 ms
+		Average Goodput = 0.633129 KBps
+		Maximum Achieved GoodPut = 0.633129 KBps
+
+	389909:
+		Size of Content Downloaded = 0.240234 KB
+		Connection Time = 59.642000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 684.341000 ms
+		Total Receive Time = 5449.688000 ms
+		Average Goodput = 0.044082 KBps
+		Maximum Achieved GoodPut = 0.044082 KBps
+
+	388312:
+		Size of Content Downloaded = 30.991211 KB
+		Connection Time = 32.281000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 15.103000 ms
+		Total Receive Time = 8574.077000 ms
+		Average Goodput = 3.614524 KBps
+		Maximum Achieved GoodPut = 3.444937 KBps
+
+	388769:
+		Size of Content Downloaded = 1.771484 KB
+		Connection Time = 64.353000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 537.460000 ms
+		Total Receive Time = 11090.257000 ms
+		Average Goodput = 0.159733 KBps
+		Maximum Achieved GoodPut = 0.165020 KBps
+
+	388640:
+		Size of Content Downloaded = 40.688477 KB
+		Connection Time = 836.976000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 6.782000 ms
+		Total Receive Time = 8879.040000 ms
+		Average Goodput = 4.582531 KBps
+		Maximum Achieved GoodPut = 4.582531 KBps
+
+	387764:
+		Size of Content Downloaded = 9.237305 KB
+		Connection Time = 3.435000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 9.871000 ms
+		Total Receive Time = 238.475000 ms
+		Average Goodput = 38.734898 KBps
+		Maximum Achieved GoodPut = 38.734898 KBps
+
+	389321:
+		Size of Content Downloaded = 0.453125 KB
+		Connection Time = 12.272000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 151.299000 ms
+		Total Receive Time = 4129.946000 ms
+		Average Goodput = 0.109717 KBps
+		Maximum Achieved GoodPut = 0.109717 KBps
+
+	389737:
+		Size of Content Downloaded = 0.923828 KB
+		Connection Time = 2.584000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1437.697000 ms
+		Total Receive Time = 4229.815000 ms
+		Average Goodput = 0.218409 KBps
+		Maximum Achieved GoodPut = 0.218409 KBps
+
+	388499:
+		Size of Content Downloaded = 88.245117 KB
+		Connection Time = 84.983000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 42.342000 ms
+		Total Receive Time = 17688.589000 ms
+		Average Goodput = 4.988816 KBps
+		Maximum Achieved GoodPut = 210.257984 KBps
+
+	389008:
+		Size of Content Downloaded = 1.229492 KB
+		Connection Time = 5.960000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 666.094000 ms
+		Total Receive Time = 1312.661000 ms
+		Average Goodput = 0.936641 KBps
+		Maximum Achieved GoodPut = 0.936641 KBps
+
+	387806:
+		Size of Content Downloaded = 163.263672 KB
+		Connection Time = 42.904000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 136.345500 ms
+		Total Receive Time = 37908.401000 ms
+		Average Goodput = 4.306794 KBps
+		Maximum Achieved GoodPut = 16.485390 KBps
+
+	389658:
+		Size of Content Downloaded = 12.130859 KB
+		Connection Time = 274.361000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 35.961000 ms
+		Total Receive Time = 780.742000 ms
+		Average Goodput = 15.537603 KBps
+		Maximum Achieved GoodPut = 15.537603 KBps
+
+	386943:
+		Size of Content Downloaded = 152.781250 KB
+		Connection Time = 7.170000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 229.283294 ms
+		Total Receive Time = 83216.806000 ms
+		Average Goodput = 1.835942 KBps
+		Maximum Achieved GoodPut = 3.547096 KBps
+
+	387145:
+		Size of Content Downloaded = 15.477539 KB
+		Connection Time = 255.750000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 110.151000 ms
+		Total Receive Time = 78.318000 ms
+		Average Goodput = 197.624289 KBps
+		Maximum Achieved GoodPut = 197.624289 KBps
+
+	389357:
+		Size of Content Downloaded = 0.225586 KB
+		Connection Time = 4.417000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 9.830000 ms
+		Total Receive Time = 42.456000 ms
+		Average Goodput = 5.313405 KBps
+		Maximum Achieved GoodPut = 5.313405 KBps
+
+	387385:
+		Size of Content Downloaded = 3.887695 KB
+		Connection Time = 94.334000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 135.887000 ms
+		Total Receive Time = 4259.565000 ms
+		Average Goodput = 0.912698 KBps
+		Maximum Achieved GoodPut = 0.912698 KBps
+
+	386949:
+		Size of Content Downloaded = 72.292969 KB
+		Connection Time = 5.844000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 582.174000 ms
+		Total Receive Time = 49119.931000 ms
+		Average Goodput = 1.471764 KBps
+		Maximum Achieved GoodPut = 1.757860 KBps
+
+	387969:
+		Size of Content Downloaded = 0.873047 KB
+		Connection Time = 297.856000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1449.546000 ms
+		Total Receive Time = 4599.714000 ms
+		Average Goodput = 0.189805 KBps
+		Maximum Achieved GoodPut = 0.189805 KBps
+
+	386864:
+		Size of Content Downloaded = 40.416016 KB
+		Connection Time = -1.000000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1367.956500 ms
+		Total Receive Time = 428.137000 ms
+		Average Goodput = 94.399726 KBps
+		Maximum Achieved GoodPut = 159.653875 KBps
+
+	389550:
+		Size of Content Downloaded = 0.697266 KB
+		Connection Time = 4.297000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 703.104500 ms
+		Total Receive Time = 4780.706000 ms
+		Average Goodput = 0.145850 KBps
+		Maximum Achieved GoodPut = 0.083452 KBps
+
+	389392:
+		Size of Content Downloaded = 1.342773 KB
+		Connection Time = 27.690000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 663.744000 ms
+		Total Receive Time = 4418.875000 ms
+		Average Goodput = 0.303872 KBps
+		Maximum Achieved GoodPut = 0.303872 KBps
+
+	388087:
+		Size of Content Downloaded = 0.701172 KB
+		Connection Time = 7.817000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1805.330000 ms
+		Total Receive Time = 7093.228000 ms
+		Average Goodput = 0.098851 KBps
+		Maximum Achieved GoodPut = 0.098851 KBps
+
+	388408:
+		Size of Content Downloaded = 2.473633 KB
+		Connection Time = 2.460000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 236.701500 ms
+		Total Receive Time = 8980.932000 ms
+		Average Goodput = 0.275432 KBps
+		Maximum Achieved GoodPut = 9.690825 KBps
+
+	388083:
+		Size of Content Downloaded = 0.701172 KB
+		Connection Time = 5.015000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 1809.323000 ms
+		Total Receive Time = 3306.905000 ms
+		Average Goodput = 0.212033 KBps
+		Maximum Achieved GoodPut = 0.212033 KBps
+
+	389159:
+		Size of Content Downloaded = 0.859375 KB
+		Connection Time = 89.431000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 6488.128000 ms
+		Total Receive Time = 21.996000 ms
+		Average Goodput = 39.069604 KBps
+		Maximum Achieved GoodPut = 39.069604 KBps
+
+	388248:
+		Size of Content Downloaded = 12.130859 KB
+		Connection Time = 17.893000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 31.935000 ms
+		Total Receive Time = 4587.803000 ms
+		Average Goodput = 2.644154 KBps
+		Maximum Achieved GoodPut = 2.644154 KBps
+
+	389401:
+		Size of Content Downloaded = 0.785156 KB
+		Connection Time = 18.932000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 497.662000 ms
+		Total Receive Time = 4168.281000 ms
+		Average Goodput = 0.188365 KBps
+		Maximum Achieved GoodPut = 0.188365 KBps
+
+	389151:
+		Size of Content Downloaded = 0.453125 KB
+		Connection Time = 7.757000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 163.911000 ms
+		Total Receive Time = 400.445000 ms
+		Average Goodput = 1.131554 KBps
+		Maximum Achieved GoodPut = 1.131554 KBps
+
+	389484:
+		Size of Content Downloaded = 1.812500 KB
+		Connection Time = 5.325000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 340.437500 ms
+		Total Receive Time = 8155.680000 ms
+		Average Goodput = 0.222238 KBps
+		Maximum Achieved GoodPut = 0.594857 KBps
+
+	389728:
+		Size of Content Downloaded = 0.875000 KB
+		Connection Time = 9.913000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 35.359000 ms
+		Total Receive Time = 74.704000 ms
+		Average Goodput = 11.712894 KBps
+		Maximum Achieved GoodPut = 11.712894 KBps
+
+	387794:
+		Size of Content Downloaded = 0.293945 KB
+		Connection Time = 213.506000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 115.278000 ms
+		Total Receive Time = 4251.421000 ms
+		Average Goodput = 0.069140 KBps
+		Maximum Achieved GoodPut = 0.069140 KBps
+
+	388954:
+		Size of Content Downloaded = 0.942383 KB
+		Connection Time = 10.348000 ms
+		DNS Query Time = -1.000000 ms
+		Average Wait Time = 317.919000 ms
+		Total Receive Time = 4651.763000 ms
+		Average Goodput = 0.202586 KBps
+		Maximum Achieved GoodPut = 0.202586 KBps
